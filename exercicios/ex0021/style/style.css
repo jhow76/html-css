@@ -1,0 +1,18 @@
+    div.quadrado {
+        display: inline-blockg;
+        border: 2px solid black;
+        border-radius: 10px;
+        background-color: lightgrey;
+        width: 300px;
+        height: 300px;
+    }
+
+    #q1 {
+    background-color: rgba(0, 139, 139, 0.993);
+    }
+#q2 {
+ background-color: darkred;
+}
+#q3  {
+
+}
